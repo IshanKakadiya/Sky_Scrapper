@@ -1,16 +1,24 @@
-# currency_converter
+# Currency Converter
 
-A new Flutter project.
+Simple ***Currency Converter*** Created with **Flutter Freamwork** And **Dart Language**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Functionality
 
-A few resources to get you started if this is your first Flutter project:
+- Attractive UI
+- User Friendly
+- All Currency Available
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots 
+
+<img src="https://user-images.githubusercontent.com/113764228/200484396-c8afeea4-fbe4-486c-aa1d-bcb1dbbfd4a2.jpg" width="400"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/113764228/200484404-6307fa26-0615-44d2-82eb-559dcfea5f23.jpg" width="400"> &nbsp; 
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at ishankakadiya7@gmail.com
+
+
